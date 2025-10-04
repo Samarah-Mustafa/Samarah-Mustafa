@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Samarah Mustafá 👋
 
 - 🔭 Sou Designer | Desenvolvedora Back-end em Formação
-- 🌱 Estudando JavaScript, Node.js
+- 🌱 Estudando JavaScript, Node.js, TypeScript.
 ---
 <div> 
   <a href = "mailto:samarah.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -9,8 +9,11 @@
 
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
-    <img align="center" alt="JavaScript" title="JavaScript" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />         
-    <img align="center" alt="Node Js" title="Node Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />               
+  <img align="center" alt="JavaScript" title="JavaScript" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />         
+  <img align="center" alt="Node Js" title="Node Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />    
+
+  <img align="center" alt="TypeScript" title="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+          
 </div>
 </a> 
 
