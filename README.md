@@ -25,6 +25,18 @@ Atualmente, estou focada em Desenvolvimento Back-end, estudando JavaScript/TypeS
 </div>
 </a> 
 
+# 🚀 Projetos Recentes (Em Desenvolvimento)
+
+- Calculadora IMC:
+- JavaScript com HTML e CSS
+  
+Link do repositório: https://github.com/Samarah-Mustafa/samarah-mustafa.github.io/tree/main/IMC
+  
+## Demonstração
+
+![Demonstração da Calculadora de IMC](demo.gif)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samarah-Mustafa/Samarah-Mustafa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samarah-Mustafa/Samarah-Mustafa/output/github-contribution-grid-snake.svg">
