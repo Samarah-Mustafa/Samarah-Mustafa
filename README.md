@@ -1,14 +1,14 @@
 ## Olá! Eu sou a Samarah Mustafá 👋
 
-- 🔭 Sou Designer | Desenvolvedora Back-end em Formação
-- 🌱 Estudando JavaScript, Node.js, TypeScript, banco de dados SQL, Java
+- 🔭 Sou Designer | Desenvolvedora Back-end | Pós-graduanda em Engenharia de Software. 
+- 🌱 Evoluíndo em JavaScript, Node.js, TypeScript, banco de dados SQL, Java
 ---
 Em transição de carreira para a área de tecnologia, trazendo 6 anos de experiência em Design de Moda, onde atuei com a gestão completa do ciclo de vida do produto, desde a pesquisa de tendências do mercado e planejamento de coleção (similar ao product vision) até a prototipagem, ajustes de pilotagem e entrega do produto final. Essa experiência me proporcionou um olhar apurado para planejamento de projetos, otimização de processos (alinhamento com o desenvolvimento) e a importância da interação e do detalhe técnico (ficha técnica).
 Atualmente, estou focada em Desenvolvimento Back-end, estudando JavaScript/TypeScript com Node.js e banco de dados com PostgreSQL, e iniciando a jornada em Java através de minha Pós-Graduação em Engenharia de Software. Meu objetivo é aplicar minha paixão por aprender e minha mentalidade orientada a projetos na construção de sistemas robustos e eficientes.
 ---
 <div> 
   <a href = "mailto:samarah.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samarah-mustaf%C3%A1-6a2121380/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/samarah-mustafa"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
